@@ -1780,7 +1780,7 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.1, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 semantic-release@Apidcloud/semantic-release#pr/GitHubCustomTag:
   version "0.0.0-placeholder"
-  resolved "https://codeload.github.com/Apidcloud/semantic-release/tar.gz/9a31dd1ed7e86444fd7f7c48f33fcbe1ad70700f"
+  resolved "https://codeload.github.com/Apidcloud/semantic-release/tar.gz/a0e37fe44e2d75a6530673bb8c1cc76b99381804"
   dependencies:
     "@semantic-release/commit-analyzer" "^2.0.0"
     "@semantic-release/condition-travis" "^6.0.0"
