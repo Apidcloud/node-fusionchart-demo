@@ -16,8 +16,7 @@
     "semantic-release": "github:Apidcloud/semantic-release#pr/GitHubCustomTag"
   },
   "scripts": {
-    "start": "node server.js",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "start": "node server.js"
   },
   "author": "original author - mohamed sanaulla - uploaded to GitHub by Apidcloud",
   "license": "ISC"
