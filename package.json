@@ -6,15 +6,15 @@
   "dependencies": {
     "express": "4.15.4",
     "express-handlebars": "3.0.0",
-    "mongodb": "2.2.31",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "mongodb": "2.2.31"
   },
   "devDependencies": {
     "semantic-release": "Apidcloud/semantic-release#pr/GitHubCustomTag"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": "original - mohamed sanaulla (sanaulla123@gmail.com); updated and made avaiable for semantic release purposes on GitHub by Luís Fernandes aka Apidcloud <luisapidcloud@hotmail.com>",
   "license": "ISC"
