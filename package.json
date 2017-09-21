@@ -16,6 +16,7 @@
     "semantic-release": "Apidcloud/semantic-release#pr/GitHubCustomTag"
   },
   "scripts": {
+    "test": "node main.js",
     "start": "node server.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },

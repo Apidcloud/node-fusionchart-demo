@@ -1,1 +1,3 @@
-const x = "werwe";
+module.exports = {
+    x: 1
+}
