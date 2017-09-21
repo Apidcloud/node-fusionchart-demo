@@ -1,11 +1,11 @@
 {
   "name": "node-fusionchart-demo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Sample for creating FusionChart using Node and MongoDB",
-  "main": "server.js",
+  "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Apidcloud/node-fusionchart-demo.git"
+    "url": "git@https://github.com/Apidcloud/node-fusionchart-demo.git"
   },
   "dependencies": {
     "express": "4.15.4",
