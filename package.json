@@ -7,9 +7,6 @@
     "type": "git",
     "url": "git@github.com:Apidcloud/node-fusionchart-demo.git"
   },
-  "publishConfig": {
-      "tag": "beta"
-  },
   "dependencies": {
     "express": "4.15.4",
     "express-handlebars": "3.0.0",
