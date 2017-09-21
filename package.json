@@ -1,11 +1,11 @@
 {
-  "name": "node-fusionchart-demo",
+  "name": "fusionchart-demo",
   "version": "0.0.0",
   "description": "Sample for creating FusionChart using Node and MongoDB",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@https://github.com/Apidcloud/node-fusionchart-demo.git"
+    "url": "https://github.com/Apidcloud/node-fusionchart-demo.git"
   },
   "dependencies": {
     "express": "4.15.4",
@@ -13,13 +13,12 @@
     "mongodb": "2.2.31"
   },
   "devDependencies": {
-    "semantic-release": "Apidcloud/semantic-release#pr/GitHubCustomTag"
+    "semantic-release": "github:Apidcloud/semantic-release#pr/GitHubCustomTag"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "author": "original - mohamed sanaulla (sanaulla123@gmail.com); updated and made avaiable for semantic release purposes on GitHub by Luís Fernandes aka Apidcloud <luisapidcloud@hotmail.com>",
+  "author": "original - mohamed sanaulla - uploaded to GitHub by Apidcloud",
   "license": "ISC"
 }
