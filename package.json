@@ -4,7 +4,7 @@
   "description": "Sample for creating FusionChart using Node and MongoDB",
   "main": "main.js",
   "publishConfig": {
-    "tag": "beta"
+    "tag": "next"
   },
   "repository": {
     "type": "git",
