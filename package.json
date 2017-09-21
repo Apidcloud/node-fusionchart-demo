@@ -13,10 +13,11 @@
     "mongodb": "2.2.31"
   },
   "devDependencies": {
-    "semantic-release": "github:Apidcloud/semantic-release#pr/GitHubCustomTag"
+    "semantic-release": "Apidcloud/semantic-release#pr/GitHubCustomTag"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": "original author - mohamed sanaulla - uploaded to GitHub by Apidcloud",
   "license": "ISC"
