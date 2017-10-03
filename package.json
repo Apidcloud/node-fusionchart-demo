@@ -7,7 +7,7 @@
     "tag": "next"
   },
   "release": {
-    "no-pre-release": ["next"]
+    "no-pre-release": ["next1"]
   },
   "repository": {
     "type": "git",
