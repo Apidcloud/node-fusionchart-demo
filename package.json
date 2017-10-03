@@ -6,6 +6,9 @@
   "publishConfig": {
     "tag": "next"
   },
+  "release": {
+    "no-pre-release": ["latest"]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Apidcloud/node-fusionchart-demo.git"
