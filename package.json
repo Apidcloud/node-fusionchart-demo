@@ -4,10 +4,10 @@
   "description": "Sample for creating FusionChart using Node and MongoDB",
   "main": "server.js",
   "publishConfig": {
-    "tag": "next"
+    "tag": "latest"
   },
   "release": {
-    "no-pre-release": ["next"]
+    "no-pre-release": ["latest"]
   },
   "repository": {
     "type": "git",
