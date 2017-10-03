@@ -16,7 +16,7 @@
     "mongodb": "2.2.31"
   },
   "devDependencies": {
-    "semantic-release": "Apidcloud/semantic-release#pr/GitHubCustomTag"
+    "semantic-release": "Apidcloud/semantic-release#pr/GitHubPreRelease"
   },
   "scripts": {
     "test": "node main.js",
