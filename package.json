@@ -1,6 +1,5 @@
 {
   "name": "fusionchart-demo",
-  "version": "0.0.0",
   "description": "Sample for creating FusionChart using Node and MongoDB",
   "main": "server.js",
   "publishConfig": {
