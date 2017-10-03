@@ -7,7 +7,7 @@ script:
   - yarn run test
 after_success:
   - yarn run semantic-release
-  - cat *-debug.log
+  - cat /home/travis/.npm/_logs/*-debug.log
 branches:
   only:
     - master
