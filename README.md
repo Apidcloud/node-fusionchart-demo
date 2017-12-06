@@ -5,7 +5,6 @@ Sample for creating FusionChart using Node and MongoDB
 ### Disclaimer ###
 Created entirely by Mohamed Sanaulla. 
 
-
 Fixed and uploaded to GitHub by Apidcloud for semantic-release [PR purposes](https://github.com/semantic-release/semantic-release/pull/431)
 
 ### How to get it running 
